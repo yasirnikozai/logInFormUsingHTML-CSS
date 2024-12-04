@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+}
+
+.form-action {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.loginform input,
+button,
+select,
+textarea {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid green;
+    border-radius: 5px;
+}
+
+.loginform button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.fb-icon {
+    border-radius: 5px;
+    margin: 10px;
+}
